@@ -1,4 +1,4 @@
-git    git addgit status: este comando se usa para obtener el estado actual del repositorio
+git status: este comando se usa para obtener el estado actual del repositorio
 git clone: este comando se usa para fijar objetivos
 git pull: este comando se usa para extraer y descargar contenido desde un repositorio local
 git checkout: este comando se usa para desplazarte entre las ramas creadas por git branch
