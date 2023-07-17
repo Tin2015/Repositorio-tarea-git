@@ -8,3 +8,4 @@ git add: este comando se usa para agregar un cambio en el directorio de trabajo 
 git commit: este comando se usa para captura instantanea de los cambios preparados
 git push: este comando se usa para cargar contenido del repositorio local a un repositorio remoto
 git merge: este comando se usa para fusionar uno o mas ramas dentro de la rama que tienes activa
+print("soy un cambio")
